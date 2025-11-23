@@ -84,7 +84,7 @@ function Education() {
                 <p className='text-slate-400 text-sm mt-1'>
                       October - November 2025</p>
                 <p className='text-slate-300 mt-3'>
-                 Working as a Full Stack Developer
+                 Built this startup’s core website from scratch and contributed to key product features.
                 </p>
               </div>
             </motion.div>
