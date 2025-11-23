@@ -82,7 +82,7 @@ function Education() {
                 <p className='text-purple-400 font-medium mt-1'>Full Stack Intern</p>
 
                 <p className='text-slate-400 text-sm mt-1'>
-                     2025 October - Present</p>
+                      October - November 2025</p>
                 <p className='text-slate-300 mt-3'>
                  Working as a Full Stack Developer
                 </p>
