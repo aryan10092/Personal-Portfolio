@@ -63,11 +63,9 @@ useEffect(() => {
             A Full Stack Developer building real-time web applications with the MERN stack.
                Passionate about 
              solving
-            problems through code and 
-            currently
-            working as a   &nbsp; 
+            problems through code, supported by two    &nbsp; 
             <div className="relative inline-block">
-                Full Stack 
+               internships
              
              <motion.span
                className="absolute left-0 bottom-0 h-[2px] bg-gradient-to-r from-purple-500 to-pink-500 w-full"
@@ -84,7 +82,7 @@ useEffect(() => {
              /> 
             </div>
 
-       &nbsp; intern at Sync and Explore
+       &nbsp; where I built scalable features and production-ready systems.
 
          </p>
       </div>
