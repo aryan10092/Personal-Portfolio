@@ -14,7 +14,7 @@ function Projects() {
       title: 'CodeBattle',
       description: 'A real-time competitive programming platform where users can solve challenges and compete head-to-head. Features a collaborative code editor and live chat.',
       image: codebattle,
-      tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Socket.IO','Framer-motion'],
+      tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Docker', 'Socket.IO','Framer-motion'],
       github: 'https://github.com/aryan10092/Codebattle',
       live: 'https://codebattle-1.onrender.com/',  },
      {
