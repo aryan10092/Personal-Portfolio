@@ -39,7 +39,7 @@ function Projects() {
       image: Attendify,
       tech: ['Expo','Supabase','Nativewind', 'Typescript', 'Bluetooth-BLE','Lottie'],
       github: 'https://github.com/aryan10092/Attendify',
-      live: 'https://hc-cdn.hel1.your-objectstorage.com/s/v3/8eab0a883f86e3ff4a4f3d693c1ef19701c2b9cf_1004.mp4',
+      live: 'https://youtu.be/Eciqy8QKSGU',
       
     },{
 
