@@ -23,7 +23,7 @@ function Projects() {
       image:xera,
       tech: ['Expo', 'Supabase', 'Nativewind', 'Lottie', 'Tanstack'],
       github: 'https://github.com/aryan10092/Xera',
-      live: 'https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc05aaf6d9b45d4867c66254575aa2ee1b250010_0825.mp4',
+      live: 'https://youtube.com/shorts/6iWOQYEFT0A?feature=share',
     },
     {
       title: 'MindSpark',
