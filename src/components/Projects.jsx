@@ -6,6 +6,7 @@ import chathub from '../assets/chathub (2).png';
 import chatbot from '../assets/chathub.png';
 import Attendify from '../assets/Attendify3.png';
 import xera from '../assets/xera4.png';
+import RAG from '../assets/RAG.png';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 function Projects() {
@@ -24,6 +25,14 @@ function Projects() {
       tech: ['Expo', 'Supabase', 'Nativewind', 'Lottie', 'Tanstack'],
       github: 'https://github.com/aryan10092/Xera',
       live: 'https://youtube.com/shorts/6iWOQYEFT0A?feature=share',
+    },
+    {
+      title: 'RAG-Chatbot',
+      description:'A chatbot that answers from Groq or from uploaded PDFs via RAG. PDF embeddings use a local Hugging Face model.',
+      image:RAG,
+      tech: ['LangChain', 'LangGraph', 'Hugging Face', 'Streamlit', 'Sqlite3'],
+      github: 'https://github.com/aryan10092/RAG-Chatbot',
+      live: 'https://youtu.be/VHFWBpRAWOI',
     },
     {
       title: 'MindSpark',
@@ -49,14 +58,15 @@ function Projects() {
       tech: ['React','Node.js','MongoDB', 'Socket.IO', 'React Beautiful DnD'],
       github: 'https://github.com/aryan10092/Trello-clone',
       live: 'https://trello-clone-one-mu.vercel.app/',
-    } ,   {
-      title: 'ChatGpt',
-      description: 'A conversational AI application powered by OpenAI\'s GPT-3 model. It can engage in natural language conversations, answer questions, and provide information on a wide range of topics.',
-      image: chatbot,
-      tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Lucide'],
-      github: 'https://github.com/aryan10092/chathub',
-      live: 'https://chathub-3.onrender.com/',
-    }
+    } 
+    // ,   {
+    //   title: 'ChatGpt',
+    //   description: 'A conversational AI application powered by OpenAI\'s GPT-3 model. It can engage in natural language conversations, answer questions, and provide information on a wide range of topics.',
+    //   image: chatbot,
+    //   tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Lucide'],
+    //   github: 'https://github.com/aryan10092/chathub',
+    //   live: 'https://chathub-3.onrender.com/',
+    // }
   ];
 
   const containerVariants = {
