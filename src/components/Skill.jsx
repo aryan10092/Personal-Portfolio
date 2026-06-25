@@ -7,6 +7,7 @@ function Skill() {
       "React",
       "Node.js",
       "Next.js",
+        "GEN-AI",
     "React Native",
       "JavaScript",
         "Golang",
