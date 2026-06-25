@@ -60,10 +60,9 @@ useEffect(() => {
           </AnimatePresence>
 
           <p className='mt-12 text-slate-300 text-lg max-w-3xl mx-auto leading-relaxed'>
-            A Full Stack Developer building real-time web applications with the MERN stack.
-               Passionate about 
-             solving
-            problems through code, supported by two    &nbsp; 
+            AI Full Stack Developer passionate about building intelligent web applications and 
+            solving real-world problems through code. Experienced in developing scalable features and 
+            production-ready systems through two    &nbsp; 
             <div className="relative inline-block">
                internships
              
@@ -82,7 +81,7 @@ useEffect(() => {
              /> 
             </div>
 
-       &nbsp; where I built scalable features and production-ready systems.
+       &nbsp; with a strong focus on AI-driven solutions.
 
          </p>
       </div>
