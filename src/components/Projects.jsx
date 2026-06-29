@@ -4,6 +4,7 @@ import codebattle from '../assets/codebattle.png';
 import mindspark from '../assets/mindspark.png';
 import chathub from '../assets/chathub (2).png';
 import chatbot from '../assets/chathub.png';
+import gitmind from '../assets/gitmind.png';
 import Attendify from '../assets/Attendify3.png';
 import xera from '../assets/xera4.png';
 import RAG from '../assets/RAG.png';
@@ -18,6 +19,14 @@ function Projects() {
       tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Docker', 'Socket.IO','Framer-motion'],
       github: 'https://github.com/aryan10092/Codebattle',
       live: 'https://codebattle-1.onrender.com/',  },
+     {
+      title: 'GitMind',
+      description:'GitMind is an AI-powered GitHub repository analysis platform that helps developers understand any codebase in minutes.',
+      image:gitmind,
+      tech: ['Nextjs', 'RAG Pipeline', 'Groq LLM', 'Supabase', 'Tailwind'],
+      github: 'https://github.com/aryan10092/GIT_MIND',
+      live: 'https://git-mind-jade.vercel.app/',
+    },
      {
       title: 'Xera',
       description:'A social media app where user can connect with others and share their thoughts and ideas and can search and post based on different categories.',
